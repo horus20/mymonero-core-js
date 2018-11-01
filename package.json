@@ -1,11 +1,11 @@
 {
-  "name": "mymonero-core-js",
+  "name": "mymonero-core-js-old",
   "version": "0.9.0",
   "description": "The JS library containing the Monero crypto plus lightweight wallet functions behind the official MyMonero apps",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mymonero/mymonero-core-js.git"
+    "url": "git+https://github.com/horus20/mymonero-core-js-old.git"
   },
   "keywords": [
     "monero",
